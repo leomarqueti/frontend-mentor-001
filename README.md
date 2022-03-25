@@ -1,4 +1,5 @@
 # Frontend Mentor - QR code component
+https://leomarqueti.github.io/frontend-mentor-001/
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
